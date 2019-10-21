@@ -18,7 +18,7 @@ jupyter-client==5.2.3
 jupyter-core==4.4.0
 lxml==4.2.5
 newspaper3k==0.2.8
-nltk==3.3
+nltk==3.4.5
 numpy==1.15.3
 parso==0.3.1
 pexpect==4.6.0
